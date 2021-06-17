@@ -3,6 +3,7 @@
 ## Table of content
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
+- [Linux](#linux)
 - [Maven Commands](#maven-commands)
 - [Git commands](#git-commands)
 - [Contact Information](#contact-information)
@@ -14,6 +15,8 @@ This project contains a list of shortcuts to technical commands that one can use
 ## Technologies Used
 
 - Linux bash: Used to write bash scripts.
+
+## Linux
 
 ## Maven Commands
 > - TODO: To be written.
