@@ -29,7 +29,7 @@ In order for the command to run directly, one needs to define an alias in the us
 alias mci='bash /path/to/the/project/linux/mvn/mci.sh'
 alias mc='bash /path/to/the/project/linux/mvn/mc.sh'
 alias mcist='bash /path/to/the/project/linux/mvn/mcist.sh'
-alias mi='bash /path/to/the/project/mvn/mi.sh'
+alias mi='bash /path/to/the/project/linux/mvn/mi.sh'
 alias msbr='bash /path/to/the/project/linux/mvn/msbr.sh'
 alias mt='bash /path/to/the/project/linux/mvn/mt.sh'
 ```
