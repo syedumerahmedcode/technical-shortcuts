@@ -33,12 +33,14 @@ alias mi='bash /path/to/the/project/mvn/mi.sh'
 alias msbr='bash /path/to/the/project/linux/mvn/msbr.sh'
 alias mt='bash /path/to/the/project/linux/mvn/mt.sh'
 ```
-Please note that writing `bash` before the complete path of the script is necessary. Otherwise, the alias cannot be executed like a bash command.
+Please note that writing `bash` before the complete path of the script is necessary. Otherwise, the alias cannot be executed like a bash command. 
+
+Same procedure should be followed for git shortcuts.
 
 ## Maven Commands
 Following table shows the shortcuts and their meanings:
 
-|Property|Variable|
+|Shortcut|Meaning|
 | --- | --- |
 |mci|mvn clean install|
 |mc|mvn clean|
@@ -50,11 +52,20 @@ Following table shows the shortcuts and their meanings:
 Please note that after a shortcut is called from the command line, it is echoed on the terminal.
 ## Git commands
 
-> - TODO: To be written.
+Following table shows the shortcuts and their meanings:
 
-To run the application, please execute
-> mvn spring-boot:run
+|Shortcut|Meaning|
+| --- | --- |
+|ga|git add|
+|gai|git add [filename]|
+|gcf|git commit -m"feature: [You commit message]"|
+|gct|git commit -m"test: [You commit message]"|
+|gp|git push|
+|gpl|git pull|
+|grh|git reset --hard|
+|gs|git status|
 
+Please note that `gai`, `gcf``and `gct` are not working properly as the input part on command line is not working correctly.
 
 ## Contact Information
 
