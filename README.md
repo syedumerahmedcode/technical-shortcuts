@@ -65,7 +65,7 @@ Following table shows the shortcuts and their meanings:
 |grh|git reset --hard|
 |gs|git status|
 
-Please note that `gai`, `gcf``and `gct` are not working properly as the input part on command line is not working correctly.
+Please note that `gai`, `gcf`and `gct` are not working properly as the input part on command line is not working correctly.
 
 ## Contact Information
 
