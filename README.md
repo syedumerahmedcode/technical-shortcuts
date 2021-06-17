@@ -17,7 +17,23 @@ This project contains a list of shortcuts to technical commands that one can use
 - Linux bash: Used to write bash scripts.
 
 ## Linux
-In order for the command to run directly, one needs to do two things. First, one needs to create a file which makes all shortcut files executable. This is done via `makemvnCommandsExecutable.sh` file. Please be aware of the level of access that you are allowing to the shortcut files. 
+In order for the command to run directly, one needs to do two things. First, one needs to create a file which makes all shortcut files executable. This is done via `makemvnCommandsExecutable.sh` file. Please be aware of the level of access that you are allowing to the shortcut files. Secondly, one needs to define an alias in the user's local `bashrc` file. In order to do that, do the following:
+
+- Run the foloowing command:
+> vim ~/.bashrc
+
+- Find the section in the file where aliases are defined.
+
+- Define the alias as the following:
+```
+alias mci='bash /path/to/the/project/linux/mvn/mci.sh'
+alias mc='bash /path/to/the/project/linux/mvn/mc.sh'
+alias mcist='bash /path/to/the/project/linux/mvn/mcist.sh'
+alias mi='bash /path/to/the/project/mvn/mi.sh'
+alias msbr='bash /path/to/the/project/linux/mvn/msbr.sh'
+alias mt='bash /path/to/the/project/linux/mvn/mt.sh'
+```
+Please note that writing `bash` before the complete path of the script is necessary. Otherwise, the alias cannot be executed like a bash command.
 
 ## Maven Commands
 > - TODO: To be written.
