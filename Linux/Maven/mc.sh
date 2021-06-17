@@ -1,2 +1,2 @@
 #!/bin/sh
-mvn clean
+mvn clean $1
