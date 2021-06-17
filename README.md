@@ -37,7 +37,7 @@ Please note that writing `bash` before the complete path of the script is necess
 
 Same procedure should be followed for git shortcuts.
 
-## Maven Commands
+### Maven Commands
 Following table shows the shortcuts and their meanings:
 
 |Shortcut|Meaning|
@@ -50,7 +50,7 @@ Following table shows the shortcuts and their meanings:
 |mt|mvn test -Dtest=$1|
 
 Please note that after a shortcut is called from the command line, it is echoed on the terminal.
-## Git commands
+### Git commands
 
 Following table shows the shortcuts and their meanings:
 
