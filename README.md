@@ -17,7 +17,7 @@ This project contains a list of shortcuts to technical commands that one can use
 - Linux bash: Used to write bash scripts.
 
 ## Linux
-In order for the command to run directly, one needs to do two things. First, one needs to create a file which makes all shortcut files executable. This is done via `makemvnCommandsExecutable.sh` file. Please be aware of the level of access that you are allowing to the shortcut files. Secondly, one needs to define an alias in the user's local `bashrc` file. In order to do that, do the following:
+In order for the command to run directly, one needs to define an alias in the user's local `bashrc` file. In order to do that, do the following:
 
 - Run the foloowing command:
 > vim ~/.bashrc
