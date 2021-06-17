@@ -4,8 +4,8 @@
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 - [Linux](#linux)
-- [Maven Commands](#maven-commands)
-- [Git commands](#git-commands)
+  - [Maven Commands](#maven-commands)
+  - [Git commands](#git-commands)
 - [Contact Information](#contact-information)
 
 ## Introduction
@@ -36,11 +36,21 @@ alias mt='bash /path/to/the/project/linux/mvn/mt.sh'
 Please note that writing `bash` before the complete path of the script is necessary. Otherwise, the alias cannot be executed like a bash command.
 
 ## Maven Commands
-> - TODO: To be written.
+Following table shows the shortcuts and their meanings:
 
+|Property|Variable|
+| --- | --- |
+|mci|mvn clean install|
+|mc|mvn clean|
+|mcist|mvn clean install -DskipTests|
+|mi|mvn install|
+|msbr|mvn spring-boot:run|
+|mt|mvn test -Dtest=$1|
+
+Please note that after a shortcut is called from the command line, it is echoed on the terminal.
 ## Git commands
-To compile and test, please execute
-> mvn clean install
+
+> - TODO: To be written.
 
 To run the application, please execute
 > mvn spring-boot:run
