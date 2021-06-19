@@ -56,7 +56,7 @@ Following table shows the shortcuts and their meanings:
 
 |Shortcut|Meaning|
 | --- | --- |
-|ga|git add|
+|gaa|git add .|
 |gai|git add [filename]|
 |gcf|git commit -m"feature: [You commit message]"|
 |gct|git commit -m"test: [You commit message]"|
