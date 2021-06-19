@@ -69,7 +69,7 @@ Following table shows the shortcuts and their meanings:
 Please note that `gai`, `gcf`and `gct` are not working properly as the input part on command line is not working correctly.
 
 ## Windows
-In order for the command to run directly, one needs to put these files in `mvnShortcuts` and `gitShorcuts` folder somewhere o the machine. After that, one can create an entry in the Path as an environment variable. This way, one can run the shortcuts directly from the command line. 
+In order for the shortcuts to run directly, one needs to put these files in `mvnShortcuts` and `gitShorcuts` folder somewhere on their machine. After that, one can create an entry in the Path as an environment variable. This way, one can run the shortcuts directly from the command line. 
 
 Please note that maven and git shorcuts are very similar in both Windows and Linux folder within this project. However, before using either of them, please go through the `bat` and/or `sh` files first so that the general idea of them is clear. 
 
