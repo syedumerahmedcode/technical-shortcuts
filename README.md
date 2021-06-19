@@ -6,7 +6,7 @@
 - [Linux](#linux)
   - [Maven Commands](#maven-commands)
   - [Git commands](#git-commands)
-- Windows(#windows)  
+- [Windows](#windows)  
 - [Contact Information](#contact-information)
 
 ## Introduction
