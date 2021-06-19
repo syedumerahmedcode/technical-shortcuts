@@ -1,0 +1,1 @@
+git push %1
