@@ -1,2 +1,1 @@
-#!/bin/bash
-git branch --show-current $1
+git branch --show-current
