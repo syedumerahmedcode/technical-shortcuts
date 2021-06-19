@@ -16,6 +16,7 @@ This project contains a list of shortcuts to technical commands that one can use
 ## Technologies Used
 
 - Linux bash: Used for writing bash scripts.
+- Windows bat: Used for writing Windows specific bat files.
 
 ## Linux
 In order for the command to run directly, one needs to define an alias in the user's local `bashrc` file. In order to do that, do the following:
