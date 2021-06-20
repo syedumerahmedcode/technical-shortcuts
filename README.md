@@ -34,6 +34,8 @@ alias mcist='bash /path/to/the/project/linux/mvn/mcist.sh'
 alias mi='bash /path/to/the/project/linux/mvn/mi.sh'
 alias msbr='bash /path/to/the/project/linux/mvn/msbr.sh'
 alias mt='bash /path/to/the/project/linux/mvn/mt.sh'
+and so on...
+
 ```
 Please note that writing `bash` before the complete path of the script is necessary. Otherwise, the alias cannot be executed like a bash command. 
 
