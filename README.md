@@ -15,7 +15,7 @@ This project contains a list of shortcuts to technical commands that one can use
 
 ## Technologies Used
 
-- Linux bash: Used for writing bash scripts.
+- Linux bash: Used for writing Linux bash scripts.
 - Windows bat: Used for writing Windows specific bat files.
 
 ## Linux
