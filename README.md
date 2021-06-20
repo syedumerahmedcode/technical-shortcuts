@@ -74,7 +74,7 @@ Please note that `gai`, `gcf`and `gct` are not working properly as the input par
 ## Windows
 In order for the shortcuts to run directly, one needs to put these files in `mvnShortcuts` and `gitShorcuts` folder somewhere on their machine. After that, one can create an entry in the Path as an environment variable. This way, one can run the shortcuts directly from the command line. 
 
-Please note that maven and git shorcuts are very similar in both Windows and Linux folder within this project. However, before using either of them, please go through the `bat` and/or `sh` files first so that the general idea of them is clear. 
+Please note that maven and git shorcuts are very similar in both Windows and Linux folder within this project. However, some parts differ from one another. Hence, before using either of them, please go through the `bat` and/or `sh` files first so that the general idea of them is clear. 
 
 
 ## Contact Information
