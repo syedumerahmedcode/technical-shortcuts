@@ -1,1 +1,3 @@
-git branch --show-current
+#!/bin/bash
+
+git rev-parse --abbrev-ref HEAD
