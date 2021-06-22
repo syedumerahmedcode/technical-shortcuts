@@ -68,6 +68,7 @@ Following table shows the shortcuts and their meanings:
 |gpl|git pull|
 |grh|git reset --hard|
 |gs|git status|
+|gbsc|git branch --show-current|
 
 
 
