@@ -53,6 +53,7 @@ Following table shows the shortcuts and their meanings:
 |mi|mvn install|
 |msbr|mvn spring-boot:run|
 |mt|mvn test -Dtest=$1|
+|mjr|mvn jetty:run $1|
 
 Please note that after a shortcut is called from the command line, it is echoed on the terminal.
 ### Git commands
