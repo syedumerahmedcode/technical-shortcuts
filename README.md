@@ -81,7 +81,7 @@ Please note that maven and git shorcuts are very similar in both Windows and Lin
 
 ## Contribution
 
-Feature requests, issues, pull requests and questions are welcome.
+Feature requests, issues, pull requests and questions are welcome. -
 
 
 ## Contact Information
